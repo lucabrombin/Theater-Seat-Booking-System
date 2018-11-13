@@ -1,0 +1,17 @@
+1-Nome:lucaCognome:brombinEta:23Posti:33;34
+2-Nome:1Cognome:1Eta:1Posti:1;
+3-Nome:2Cognome:2Eta:2Posti:3;
+4-Nome:1Cognome:1Eta:1Posti:2;
+5-Nome:Cognome:1Eta:1Posti:0;
+6-Nome:1Cognome:1Eta:1Posti:5;
+7-Nome:1Cognome:1Eta:1Posti:4;
+8-Nome:1Cognome:1Eta:1Posti:
+9-Nome:siCognome:sEta:sPosti:10;
+10-Nome:sCognome:sEta:sPosti:
+11-Nome:wCognome:wEta:wPosti:21;
+12-Nome:rrCognome:rrEta:rrPosti:22;
+13-Nome:ssCognome:ssEta:ssPosti:2;
+14-Nome:saCognome:saEta:saPosti:2;
+15-Nome:lucaCognome:ffffEta:33Posti:11;
+16-Nome:lucaCognome:ddEta:dddPosti:12;
+17-Nome:lCognome:lEta:lPosti:18-Nome:lucaCognome:brombEta:34Posti:18-Nome:lucaCognome:brombinEta:23Posti:18-Nome:lucaCognome:brombinEta:12Posti:18-Nome:lucaCognome:brombinEta:23Posti:
